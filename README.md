@@ -1,11 +1,22 @@
-# Node.js CI/CD Pipeline Project
+# CI/CD Pipeline Project – Automated DevOps Workflow
 
 ![CI/CD Pipeline](https://github.com/aniieee-p/CI-CD-Pipeline-Project/actions/workflows/ci-cd.yml/badge.svg)
 ![Node.js](https://img.shields.io/badge/node-%3E%3D18.0.0-brightgreen)
 
-A simple Node.js app I built to learn CI/CD with GitHub Actions. The pipeline automatically runs tests, builds the app, and creates a Docker image whenever I push code.
+Production-ready Node.js application with fully automated CI/CD pipeline using GitHub Actions, Docker containerization, and cloud deployment.
 
-🌐 **Live Demo:** [https://ci-cd-pipeline-project.vercel.app](https://ci-cd-pipeline-project.vercel.app)
+⚡ **Automated Testing** with Jest + Supertest  
+🔄 **GitHub Actions** CI/CD workflow  
+🐳 **Docker** containerization & image building  
+📊 **Code Coverage** tracking & quality gates  
+✅ **ESLint** code quality checks  
+🚀 **Vercel** deployment automation  
+🔍 **Health Check** & API endpoints  
+
+**Stack:** Node.js · Express.js · Jest · Docker · GitHub Actions · Vercel  
+**Deploy:** Vercel
+
+🔗 [Live Demo](https://ci-cd-pipeline-project.vercel.app) | 🔗 [GitHub](https://github.com/aniieee-p/CI-CD-Pipeline-Project)
 
 ## What I Learned
 
