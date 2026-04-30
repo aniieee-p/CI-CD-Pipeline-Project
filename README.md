@@ -1,6 +1,6 @@
 # Node.js CI/CD Application
 
-![CI/CD Pipeline](https://github.com/YOUR_USERNAME/YOUR_REPO/actions/workflows/ci-cd.yml/badge.svg)
+![CI/CD Pipeline](https://github.com/aniieee-p/CI-CD-Pipeline-Project/actions/workflows/ci-cd.yml/badge.svg)
 ![Node.js Version](https://img.shields.io/badge/node-%3E%3D18.0.0-brightgreen)
 ![License](https://img.shields.io/badge/license-MIT-blue)
 
@@ -26,8 +26,8 @@ A complete Node.js application with a production-ready CI/CD pipeline using GitH
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
-cd YOUR_REPO
+git clone https://github.com/aniieee-p/CI-CD-Pipeline-Project.git
+cd CI-CD-Pipeline-Project
 
 # Install dependencies
 npm install
@@ -122,7 +122,7 @@ The pipeline runs on:
 Add these badges to your README by replacing `YOUR_USERNAME` and `YOUR_REPO`:
 
 ```markdown
-![CI/CD Pipeline](https://github.com/YOUR_USERNAME/YOUR_REPO/actions/workflows/ci-cd.yml/badge.svg)
+![CI/CD Pipeline](https://github.com/aniieee-p/CI-CD-Pipeline-Project/actions/workflows/ci-cd.yml/badge.svg)
 ![Tests](https://img.shields.io/badge/tests-passing-brightgreen)
 ![Coverage](https://img.shields.io/badge/coverage-90%25-brightgreen)
 ```
