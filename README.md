@@ -5,6 +5,8 @@
 
 A simple Node.js app I built to learn CI/CD with GitHub Actions. The pipeline automatically runs tests, builds the app, and creates a Docker image whenever I push code.
 
+🌐 **Live Demo:** [https://ci-cd-pipeline-project.vercel.app](https://ci-cd-pipeline-project.vercel.app)
+
 ## What I Learned
 
 - Setting up automated testing with Jest
@@ -74,7 +76,7 @@ docker run -p 3000:3000 nodejs-cicd-app
 
 - [ ] Add more endpoints
 - [ ] Improve test coverage
-- [ ] Set up actual deployment
+- [x] Deploy to production (Vercel)
 - [ ] Add database integration
 
 ---
